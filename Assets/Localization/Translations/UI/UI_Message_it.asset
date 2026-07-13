@@ -1,0 +1,336 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_Message_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 9f481af4943075c44a5d7b388ea15244, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 92056813568
+    m_Localized: Nuova Partita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 180980252672
+    m_Localized: Carica Partita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322076639232
+    m_Localized: Opzioni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 375830839296
+    m_Localized: Crediti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 422404390912
+    m_Localized: Esci
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2964119060480
+    m_Localized: Impostazioni Generali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3063188520960
+    m_Localized: Configurazione Tastiera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3210630889472
+    m_Localized: Configurazione Controller
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3443804831744
+    m_Localized: Torna al menu principale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3714924642304
+    m_Localized: Risoluzione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3764216102912
+    m_Localized: Schermo Intero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3839919095808
+    m_Localized: Mostra FPS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3887226650624
+    m_Localized: Settaggi Grafici
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4015505244160
+    m_Localized: Settaggi Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4136166981632
+    m_Localized: Volume Principale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4471782604800
+    m_Localized: Vol. Effetti Sonori
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4629723316224
+    m_Localized: Volume Musica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4723780583424
+    m_Localized: Salva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4754650660864
+    m_Localized: Ripristina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4870681886720
+    m_Localized: Configurazione Tasti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5176933187584
+    m_Localized: Movimenti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5259112185856
+    m_Localized: Avanti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5296621846528
+    m_Localized: Indietro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5328569860096
+    m_Localized: Sinistra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5357393117184
+    m_Localized: Destra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5545197273088
+    m_Localized: Salta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5665523466240
+    m_Localized: Azioni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5771723243520
+    m_Localized: Oggetto 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5960269791232
+    m_Localized: Oggetto 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6078918262784
+    m_Localized: Oggetto 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6155623694336
+    m_Localized: Pausa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6190893596672
+    m_Localized: Conferma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9203125288960
+    m_Localized: Ricomincia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9263997222912
+    m_Localized: Continua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9852411936768
+    m_Localized: Riprendi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10007668293632
+    m_Localized: Abbandona
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10729558343680
+    m_Localized: Pausa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11611922464768
+    m_Localized: Seleziona Livello
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12202342055936
+    m_Localized: Inizia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108132932222976
+    m_Localized: Missione Completata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108283558068224
+    m_Localized: 'Record:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117184269615104
+    m_Localized: Prossimo Livello
+    m_Metadata:
+      m_Items: []
+  - m_Id: 835296463912960
+    m_Localized: Lingua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088503828152320
+    m_Localized: Chiusura del gioco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1089234555600896
+    m_Localized: Vuoi veramente chiudere il gioco?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1090178244640768
+    m_Localized: Chiudi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1097254983401472
+    m_Localized: Annulla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1098208835239936
+    m_Localized: Modifiche non salvate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1098482219974656
+    m_Localized: 'Ci sono delle modifiche non salvate.
+
+      Vuoi salvarle?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1102132954759168
+    m_Localized: "Si \xE8 verificato un errore!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1102712234278912
+    m_Localized: Modifiche salvate con successo!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1108497156767744
+    m_Localized: "Tasto gi\xE0 utilizzato"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1184265551446016
+    m_Localized: Errore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2187676396781568
+    m_Localized: Completato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188680320221184
+    m_Localized: Checkpoint Raggiunto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2189400373166080
+    m_Localized: Slot vuoto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3250602570383360
+    m_Localized: "Lo slot selezionato ha gi\xE0 un salvataggio.\nVuoi sovrascriverlo?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3251675532066816
+    m_Localized: Attenzione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3252288642842624
+    m_Localized: Conferma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10171571738214400
+    m_Localized: 'Conferma: '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10496724862992384
+    m_Localized: 'Menu:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20388916700086272
+    m_Localized: 'Versione attuale: 0.1 (Demo)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20390031705473024
+    m_Localized: "Creato da Michael Longo\nStudente in ingegneria informatica all'universit\xE0
+      di Catania\nMatricola O46002125"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20390646187786240
+    m_Localized: Realizzato con Unity (2022.3.36F1)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20390773023539200
+    m_Localized: "Questa \xE8 una demo presentata come progetto universitario"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20391000929435648
+    m_Localized: 'Modelli 3D:
+
+      Unity'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20391269935316992
+    m_Localized: 'Texture:
+
+      Michael Longo'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20391322544472064
+    m_Localized: 'Musica:
+
+      MIKE BERN MUSIC
+
+      Theo Prior'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20391390295064576
+    m_Localized: 'Effetti sonori:
+
+      Nox_Sound
+
+      B.G.M
+
+      Tim Beek
+
+      Shapeforms
+
+      WangleLine'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22128161093550080
+    m_Localized: Gamepad disconnesso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22128983852417024
+    m_Localized: Ricollega il gamepad entro 60 secondi!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30252936387067904
+    m_Localized: Guida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43567596322390016
+    m_Localized: VSync
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

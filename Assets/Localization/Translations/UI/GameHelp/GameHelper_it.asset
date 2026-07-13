@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GameHelper_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 1899bf3d1cd7c7c4f9e00659963ab3f8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 956792377147392
+    m_Localized: Interfaccia-Missione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 956832365641728
+    m_Localized: "La missione principale \xE8 raggiungere la destinazione, ma in
+      alcuni casi pu\xF2 essere richiesto di raccogliere alcuni oggetti. \r\nGli
+      oggetti da raccogliere appariranno in alto a sinistra; se sono raccolti avranno
+      un contorno verde, altrimenti rosso."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957132510035968
+    m_Localized: Interfaccia-Oggetti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957139527106560
+    m_Localized: "In basso al centro \xE8 presente la barra degli oggetti. \r\nOgni
+      oggetto ha il proprio numero di utilizzi rimanenti indicato in basso; se non
+      \xE8 indicato, significa che il numero di utilizzi \xE8 infinito. \r\nAlcuni
+      oggetti necessitano di essere equipaggiati prima di essere utilizzati; tali
+      oggetti equipaggiabili avranno un contorno rosso se non equipaggiati, altrimenti
+      verde."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957339645739008
+    m_Localized: Interfaccia-Minimappa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957342195875840
+    m_Localized: "In alto a destra troverai la minimappa. \r\nQuesta minimappa \xE8
+      creata grazie alle capacit\xE0 del modello TXRU ed \xE8 in grado di fornire
+      diverse informazioni utili e di filtrare quelle inutili. \r\nTra le informazioni
+      pi\xF9 importanti ci sono l'ambiente che ti circonda, la tua posizione, la
+      posizione dei nemici e il loro campo visivo. \r\nTramite queste puoi stimare
+      quando entri nel loro raggio visivo, ma fai attenzione: l'indicatore della
+      tua posizione non indica lo spazio che occupi. \r\nAltre informazioni utili
+      sono oggetti che puoi raccogliere/usare, la destinazione e i passaggi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957514200088576
+    m_Localized: Il salto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957516649562112
+    m_Localized: "Questo non \xE8 un salto comune; infatti, grazie alle speciali
+      caratteristiche del TXRU, riesce a creare un impatto notevole. \r\nPuoi usare
+      il salto per generare un forte rumore con lo scopo di distrarre le guardie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957688314036224
+    m_Localized: Il Checkpoint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957691300380672
+    m_Localized: "Questo strano portale ti permette di salvare un istante temporale
+      e ritornarci in seguito, ma fai attenzione: questo strumento non \xE8 perfetto
+      perch\xE9 genera distorsioni temporali. \r\nDopo il primo utilizzo, ti porter\xE0
+      avanti nel tempo di 1 secondo ogni volta!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957823605506048
+    m_Localized: Scatola A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957826558296064
+    m_Localized: "Utilizzando i materiali di questa comune scatola metallica, sei
+      in grado di mutare forma e trasformarti in una scatola. \r\nDiventando una
+      scatola potresti passare inosservato, ma fai attenzione: le guardie non ci
+      penseranno due volte a distruggerti se disturbi il loro lavoro! \r\nInoltre,
+      la trasformazione in scatola ha degli svantaggi: ti impedisce di usare le tue
+      altre abilit\xE0 e/o strumenti, ma puoi sempre ritornare nella tua forma originale."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 958117076762624
+    m_Localized: Pistola Laser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 958119320715264
+    m_Localized: "Fondendoti con quest'arma, sei in grado di sparare laser.\r\nPer
+      fonderti con l'arma devi prima equipaggiarla. Una volta equipaggiata, puoi
+      sparare.\r\nFai attenzione: l'impatto dello sparo non ti permetter\xE0 di muoverti
+      per qualche istante."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 958258001182720
+    m_Localized: "Dispositivo dell'invisibilit\xE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 958261092384768
+    m_Localized: "Collegando questo dispositivo al tuo corpo, puoi diventare invisibile,
+      ma l'invisibilit\xE0 ha una durata molto limitata!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

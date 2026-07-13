@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GameHelper_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 1899bf3d1cd7c7c4f9e00659963ab3f8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 956792377147392
+    m_Localized: Interface-Quest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 956832365641728
+    m_Localized: "The main mission is to reach the destination, but in some cases,
+      you may be required to collect certain items. \r\nThe items to be collected
+      will appear in the top left; if collected, they will have a green outline,
+      otherwise red.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957132510035968
+    m_Localized: Interface-Items
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957139527106560
+    m_Localized: "At the bottom center, there is the item bar. \r\nEach item has
+      its own number of remaining uses indicated at the bottom; if it is not indicated,
+      it means that the number of uses is infinite.\r\nSome items need to be equipped
+      before they can be used; such equippable items will have a red outline if not
+      equipped, otherwise green."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957339645739008
+    m_Localized: Interface-Minimap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957342195875840
+    m_Localized: "At the top right, you will find the minimap. \r\nThis minimap is
+      created thanks to the capabilities of the TXRU model and is able to provide
+      various useful information and filter out the useless ones. \r\nAmong the most
+      important information are the environment around you, your position, the position
+      of enemies, and their field of vision. \r\nThrough this, you can estimate when
+      you enter their visual range, but be careful: the indicator of your position
+      does not indicate the space you occupy. \r\nOther useful information includes
+      items you can collect/use, the destination, and passages."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957514200088576
+    m_Localized: The jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957516649562112
+    m_Localized: "This is not a common jump; in fact, thanks to the special characteristics
+      of the TXRU, it creates a significant impact. \r\nYou can use the jump to generate
+      a loud noise with the purpose of distracting the guards."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957688314036224
+    m_Localized: The Checkpoint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957691300380672
+    m_Localized: "This strange portal allows you to save a moment in time and return
+      to it later, but be careful: this tool is not perfect because it generates
+      temporal distortions. \r\nAfter the first use, it will take you forward in
+      time by 1 second every time!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957823605506048
+    m_Localized: Box A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957826558296064
+    m_Localized: "By using the materials from this common metal box, you are able
+      to change shape and transform into a box. \r\nBy becoming a box, you could
+      go unnoticed, but be careful: the guards won't hesitate to destroy you if you
+      disturb their work! \r\nMoreover, the transformation into a box has its drawbacks:
+      it prevents you from using your other abilities and/or tools, but you can always
+      return to your original form."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 958117076762624
+    m_Localized: Laser Gun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 958119320715264
+    m_Localized: "By merging with this weapon, you are able to shoot lasers. \r\nTo
+      merge with the weapon, you must first equip it. Once equipped, you can shoot.
+      \r\nBe careful: the impact of the shot will prevent you from moving for a moment."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 958258001182720
+    m_Localized: Invisibility device
+    m_Metadata:
+      m_Items: []
+  - m_Id: 958261092384768
+    m_Localized: By connecting this device to your body, you can become invisible,
+      but the invisibility has a very limited duration!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

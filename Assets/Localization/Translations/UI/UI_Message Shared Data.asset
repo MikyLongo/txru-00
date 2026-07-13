@@ -1,0 +1,324 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI_Message Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI_Message
+  m_TableCollectionNameGuidString: 9f481af4943075c44a5d7b388ea15244
+  m_Entries:
+  - m_Id: 92056813568
+    m_Key: NewGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 180980252672
+    m_Key: LoadGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322076639232
+    m_Key: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 375830839296
+    m_Key: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 422404390912
+    m_Key: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2964119060480
+    m_Key: GeneralSettings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3063188520960
+    m_Key: KeybindingMK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3210630889472
+    m_Key: KeybindingController
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3443804831744
+    m_Key: ToMainMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3714924642304
+    m_Key: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3764216102912
+    m_Key: FullScreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3839919095808
+    m_Key: ShowFPS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3887226650624
+    m_Key: GraphicSettings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4015505244160
+    m_Key: SoundSettings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4136166981632
+    m_Key: MasterVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4471782604800
+    m_Key: SFXVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4629723316224
+    m_Key: MusicVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4723780583424
+    m_Key: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4754650660864
+    m_Key: Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4870681886720
+    m_Key: KeyConfiguration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5176933187584
+    m_Key: Movements
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5259112185856
+    m_Key: KeyForward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5296621846528
+    m_Key: KeyBack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5328569860096
+    m_Key: KeyLeft
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5357393117184
+    m_Key: KeyRight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5545197273088
+    m_Key: KeyJump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5665523466240
+    m_Key: Actions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5771723243520
+    m_Key: KeyUse1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5960269791232
+    m_Key: KeyUse2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6078918262784
+    m_Key: KeyUse3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6155623694336
+    m_Key: KeyPause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6190893596672
+    m_Key: KeySubmit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9203125288960
+    m_Key: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9263997222912
+    m_Key: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9852411936768
+    m_Key: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10007668293632
+    m_Key: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10729558343680
+    m_Key: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11611922464768
+    m_Key: SelectLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12202342055936
+    m_Key: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108132932222976
+    m_Key: MissionComplete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108283558068224
+    m_Key: RecordText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117184269615104
+    m_Key: NextLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 835296463912960
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088503828152320
+    m_Key: MBClosingGameTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1089234555600896
+    m_Key: MBClosingGameAskConfirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1090178244640768
+    m_Key: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1097254983401472
+    m_Key: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1098208835239936
+    m_Key: MBChangeNotSavedTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1098482219974656
+    m_Key: MBChangeNotSavedAskConfirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1102132954759168
+    m_Key: MBErrorOccurred
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1102712234278912
+    m_Key: MBSaveSuccesfull
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1108497156767744
+    m_Key: MBKeybindAlreadyUsedTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1184265551446016
+    m_Key: Error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2187676396781568
+    m_Key: Completed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188680320221184
+    m_Key: CheckpointUnlocked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2189400373166080
+    m_Key: EmptySlot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3250602570383360
+    m_Key: SDSlotHasData
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3251675532066816
+    m_Key: Warning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3252288642842624
+    m_Key: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10171563357995008
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10171571738214400
+    m_Key: UIHintSubmit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10496724862992384
+    m_Key: UIHintMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20388916700086272
+    m_Key: CrVersion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20390031705473024
+    m_Key: CrCreatedBy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20390646187786240
+    m_Key: CrCreatedWith
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20390773023539200
+    m_Key: CrDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20391000929435648
+    m_Key: CrModels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20391269935316992
+    m_Key: CrTexture
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20391322544472064
+    m_Key: CrBGM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20391390295064576
+    m_Key: CrSFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22128161093550080
+    m_Key: RB_GAMEPAD_DISCONNECTED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22128983852417024
+    m_Key: RB_GAMEPAD_ASK_RECONNECT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30252936387067904
+    m_Key: Guide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43567596322390016
+    m_Key: VSync
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3754329922358476825
+  references:
+    version: 2
+    RefIds:
+    - rid: 3754329922358476825
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1728381125740

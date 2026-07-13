@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI_LevelInfo Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI_LevelInfo
+  m_TableCollectionNameGuidString: 1310c77db50a21549a77302b6beb3782
+  m_Entries:
+  - m_Id: 586431037440
+    m_Key: Level_LvName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1634809905152
+    m_Key: Level_HowToClose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13029580439552
+    m_Key: Level_Lv1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2542267571339264
+    m_Key: Level_Lv2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2542293022375936
+    m_Key: Level_Lv3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2542308126064640
+    m_Key: Level_Lv4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2542319735898112
+    m_Key: Level_Lv5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21666557273014272
+    m_Key: Level_Lv6_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21666668023611392
+    m_Key: Level_Lv6_Page1_Static
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21666965622063104
+    m_Key: Level_Lv6_Page2_Static
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21667340295045120
+    m_Key: Level_Lv6_Conclusion_S
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21667401762570240
+    m_Key: Level_Lv6_Conclusion_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21667421899423744
+    m_Key: Level_Lv6_Conclusion_B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21667439750381568
+    m_Key: Level_Lv6_Conclusion_C
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21667449946734592
+    m_Key: Level_Lv6_Conclusion_D
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21667459778183168
+    m_Key: Level_Lv6_Conclusion_E
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21667471358656512
+    m_Key: Level_Lv6_Conclusion_F
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1154652310830841856
+  references:
+    version: 2
+    RefIds:
+    - rid: 1154652310830841856
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1731000074502

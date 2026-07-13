@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: GameHelper
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 1899bf3d1cd7c7c4f9e00659963ab3f8, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: ee86e5d3a9cfe6441a885da6e6dd7dd7, type: 2}
+  - {fileID: 11400000, guid: 292ad09d1ff4d35448cffe2454cebae1, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

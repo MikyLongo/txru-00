@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cc914d96a1ae6f4484fc78cf69e7d05, type: 3}
+  m_Name: InvisibilityDevice
+  m_EditorClassIdentifier: 
+  id: 4
+  itemName: InvisibilityDevice
+  sprite: {fileID: 21300000, guid: 0feffe3e12da95a4c889ccf37500f126, type: 3}
+  useType: 2
+  numUse: 1
+  isEquipable: 0
+  prefabEquip: {fileID: 0}
+  duration: 3

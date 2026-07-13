@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f716d9578c4655644a92bb768e5f04d0, type: 3}
+  m_Name: MainMenu
+  m_EditorClassIdentifier: 
+  level: -1
+  records: []
+  endTime: 0
+  BGMs:
+  - {fileID: 8300000, guid: d19cc54e4860a0a4c884c848c6b1a015, type: 3}
+  levelType: 0
+  locKey: 
+  locInfoParams: []

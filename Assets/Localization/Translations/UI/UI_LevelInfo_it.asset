@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_LevelInfo_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 1310c77db50a21549a77302b6beb3782, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 1154652310830841864
+  m_TableData:
+  - m_Id: 586431037440
+    m_Localized: Livello {num}
+    m_Metadata:
+      m_Items:
+      - rid: 1154652310830841864
+  - m_Id: 1634809905152
+    m_Localized: Premi il pulsante Pausa \"{key}\" per chiudere
+    m_Metadata:
+      m_Items:
+      - rid: 1154652310830841864
+  - m_Id: 13029580439552
+    m_Localized: "Finalmente sei attivo! \r\nMa sembra che lo stato della tua memoria
+      sia alterato.\r\nNon abbiamo molto tempo, quindi ecco ci\xF2 che devi sapere.
+      \r\nTu sei un robot, il primo prototipo del modello TXRU, un robot da ricognizione.
+      \r\nSei stato inviato in questo luogo per recuperare delle informazioni e delle
+      risorse, ma al tuo arrivo abbiamo perso il contatto con te. \r\nLa causa sembra
+      essere stata una tua disattivazione. \r\nInfiltrati senza farti scoprire; non
+      avresti comunque speranza contro le guardie. \r\nLe guardie sono robot da combattimento
+      all'avanguardia, dotati di capacit\xE0 di teletrasporto e in grado di generare
+      laser che ti distruggerebbero in un istante. \r\nTuttavia, l'aspetto peggiore
+      \xE8 che possiedono una tecnologia sconosciuta in grado di immobilizzare istantaneamente
+      l'avversario!\nMa tranquillo, non sei del tutto inutile contro di loro: sei
+      dotato di un radar che \xE8 in grado di mappare l'intera zona in cui ti trovi,
+      rilevando eventuali entit\xE0 presenti e perfino il loro campo visivo! \r\nAdesso
+      avanza verso la zona successiva e ricorda: non farti scoprire! Se necessario,
+      distrai le guardie generando rumore; puoi farlo saltando!\r\n\r\nMovimento:
+      \r\nSu: {forward}\r\nGi\xF9: {backward}\r\nSinistra: {left}\r\nDestra: {right}\r\nSalta:
+      {jump}"
+    m_Metadata:
+      m_Items:
+      - rid: 1154652310830841864
+  - m_Id: 2542267571339264
+    m_Localized: "Ottimo, sei riuscito a superare la prima stanza senza problemi,
+      ma non \xE8 ancora finita. \r\nDalle informazioni ricavate dal tuo radar, sembra
+      che qui la sicurezza sia maggiore, il che significa che stanno proteggendo
+      qualcosa. \r\nDirigiti alla zona successiva, probabilmente l\xEC troveremo
+      ci\xF2 che stiamo cercando. \r\nMentre siamo qui, ti do un'ulteriore informazione
+      sul tuo modello. \r\nIl tuo modello ha la capacit\xE0 di raccogliere e fondersi
+      con particolari tipi di materiali, trasformandoli in parti del corpo e usandoli
+      in modi particolari, ma fai attenzione: hai una capacit\xE0 limitata! \r\nIl
+      radar ti segnaler\xE0 eventuali materiali utilizzabili. \r\nQuindi usa ci\xF2
+      che ti offre l'ambiente e prosegui.\r\nVeloce non ci resta molto tempo.\r\n\r\nAzioni:\nUsa
+      materiale 1: {use1}\r\nUsa materiale 2: {use2}\r\nUsa materiale 3: {use3}"
+    m_Metadata:
+      m_Items:
+      - rid: 1154652310830841864
+  - m_Id: 2542293022375936
+    m_Localized: "Come previsto, il radar rileva il nostro dispositivo di archiviazione
+      dati, ma purtroppo non rileva i prototipi della nostra ricerca. \r\nSembra
+      che due guardie non abbiano intenzione di perdere di vista i nostri dati, ma
+      non ha importanza, quei dati ci sono stati rubati. \r\nDevi recuperarli a ogni
+      costo! \r\nQuei dati contengono informazioni su una nostra ricerca e sono di
+      vitale importanza; non possiamo lasciarli in mani sbagliate. \r\nRecupera i
+      dati e fuggi via da l\xEC."
+    m_Metadata:
+      m_Items:
+      - rid: 1154652310830841864
+  - m_Id: 2542308126064640
+    m_Localized: "Bene, hai quasi raggiunto l'uscita, ma prima di uscire devi fare
+      un'ultima cosa. \r\nIl radar ha rilevato i nostri prototipi. \r\nI prototipi
+      da recuperare sono una \"Sfera di Energia\" e un \"Trasmutatore di Energia\".
+      \r\nRecuperali ed esci da l\xEC, ma fai in fretta. \r\nPer precauzione, \xE8
+      stato attivato un attacco alla struttura e non manca molto prima che l'intera
+      struttura, con tutto ci\xF2 che c'\xE8 al suo interno, venga polverizzata."
+    m_Metadata:
+      m_Items:
+      - rid: 1154652310830841864
+  - m_Id: 2542319735898112
+    m_Localized: "Ecco l'uscita! \r\nAscolta, questa sar\xE0 la nostra ultima conversazione.
+      \r\nHai poco tempo per uscire da l\xEC; per precauzione abbiamo ordinato la
+      distruzione dell'intera struttura in cui ti trovi, con te dentro o senza di
+      te, non importa. \r\nRaggiungi l'uscita se vuoi sopravvivere, adesso sei solo!\r\n\r\nL'unica
+      cosa che posso fare per te \xE8 dirti che l'uscita sembra protetta da un vecchio
+      modello di robot. \r\nDa quel che so, \xE8 un modello dotato di grandi capacit\xE0
+      di fuoco ma sprovvisto delle pi\xF9 recenti tecnologie. \r\nQuindi, se non
+      riesci a fuggire da l\xEC senza farti vedere, potresti avere qualche possibilit\xE0
+      di sconfiggerlo!\r\n\r\nBuona fortuna!"
+    m_Metadata:
+      m_Items:
+      - rid: 1154652310830841864
+  - m_Id: 21666557273014272
+    m_Localized: Rapporto simulazione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21666668023611392
+    m_Localized: "<style=\"RST\">Simulazione n\xB0 225</style>\r\n\r\n<style=\"RST\">Obiettivo:</style>
+      Valutazione del comportamento adattivo dell'IA \r\n<style=\"RST\">Esito della
+      simulazione:</style> Completata con successo\r\n\r\n<style=\"RST\">Simulazione
+      eseguita:</style>\r\nL'IA TXRU-00 \xE8 stata immersa in un mondo virtuale con
+      l'obiettivo di recuperare del materiale di ricerca rubato. \r\nLe \xE8 stato
+      fornito un corpo estremamente limitante, sebbene l'ambiente fosse popolato
+      da entit\xE0 estremamente superiori.\r\n\r\n<style=\"RST\">Conclusione:</style>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21666965622063104
+    m_Localized: "<style=\"RST\">Nota:</style> \r\nL'IA ha raggiunto lo scopo senza
+      dubitare della realt\xE0 in cui \xE8 posta, nonostante le stranezze riscontrate
+      durante la missione. \r\nNemmeno nella paradossale stanza finale si \xE8 posta
+      problemi.\r\n\r\n<style=\"RST\">Valutazione:</style>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21667471358656512
+    m_Localized: "Un elefante avrebbe avuto pi\xF9 successo, forse il progetto dovrebbe
+      essere scartato."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21667459778183168
+    m_Localized: Ha completato l'obiettivo a malapena, comincio a nutrire dubbi sull'evoluzione
+      di questa IA.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21667449946734592
+    m_Localized: "Ha completato l'obiettivo con difficolt\xE0, sono necessarie ulteriori
+      simulazioni."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21667439750381568
+    m_Localized: Ha completato l'obiettivo, ma con margini di miglioramento.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21667421899423744
+    m_Localized: "Ha completato l'obiettivo dimostrando una buona capacit\xE0 di
+      adattamento."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21667401762570240
+    m_Localized: Ha completato l'obiettivo in modo eccellente, mostrando grande padronanza
+      dell'ambiente circostante, come desiderato.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21667340295045120
+    m_Localized: "Ha completato l'obiettivo in modo perfetto, dimostrando una capacit\xE0
+      di adattamento fenomenale, sembrava un fantasma!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 1154652310830841864
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 586431037440
+        - id: 1634809905152
+        - id: 13029580439552
+        - id: 2542267571339264
+        - id: 2542293022375936
+        - id: 2542308126064640
+        - id: 2542319735898112

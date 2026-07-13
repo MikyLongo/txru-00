@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab2114bdc8544297b417dfefe9f1e410, type: 3}
+  m_Name: RankDemo
+  m_EditorClassIdentifier: 
+  m_StyleList:
+  - m_Name: RST
+    m_HashCode: 90805
+    m_OpeningDefinition: <b><color=#69FA30>
+    m_ClosingDefinition: </color></b>
+    m_OpeningTagArray: 3c000000620000003e0000003c000000630000006f0000006c0000006f000000720000003d000000230000003600000039000000460000004100000033000000300000003e000000
+    m_ClosingTagArray: 3c0000002f000000630000006f0000006c0000006f000000720000003e0000003c0000002f000000620000003e000000
+    m_OpeningTagUnicodeArray: 3c000000620000003e0000003c000000630000006f0000006c0000006f000000720000003d000000230000003600000039000000460000004100000033000000300000003e000000
+    m_ClosingTagUnicodeArray: 3c0000002f000000630000006f0000006c0000006f000000720000003e0000003c0000002f000000620000003e000000
+  - m_Name: Normal
+    m_HashCode: -1183493901
+    m_OpeningDefinition: 
+    m_ClosingDefinition: 
+    m_OpeningTagArray: 
+    m_ClosingTagArray: 
+    m_OpeningTagUnicodeArray: 
+    m_ClosingTagUnicodeArray: 

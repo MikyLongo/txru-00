@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: GameHelper Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: GameHelper
+  m_TableCollectionNameGuidString: 1899bf3d1cd7c7c4f9e00659963ab3f8
+  m_Entries:
+  - m_Id: 956792377147392
+    m_Key: GH_T_InterfaceQuest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 956832365641728
+    m_Key: GH_D_InterfaceQuest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957132510035968
+    m_Key: GH_T_InterfaceItems
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957139527106560
+    m_Key: GH_D_InterfaceItems
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957339645739008
+    m_Key: GH_T_InterfaceMinimap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957342195875840
+    m_Key: GH_D_InterfaceMinimap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957514200088576
+    m_Key: GH_T_Jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957516649562112
+    m_Key: GH_D_Jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957688314036224
+    m_Key: GH_T_Checkpoint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957691300380672
+    m_Key: GH_D_Checkpoint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957823605506048
+    m_Key: GH_T_Box_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957826558296064
+    m_Key: GH_D_Box_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 958117076762624
+    m_Key: GH_T_Laser_Gun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 958119320715264
+    m_Key: GH_D_Laser_Gun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 958258001182720
+    m_Key: GH_T_Invisibility_Device
+    m_Metadata:
+      m_Items: []
+  - m_Id: 958261092384768
+    m_Key: GH_D_Invisibility_Device
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 259572299200200710
+  references:
+    version: 2
+    RefIds:
+    - rid: 259572299200200710
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1735592280082

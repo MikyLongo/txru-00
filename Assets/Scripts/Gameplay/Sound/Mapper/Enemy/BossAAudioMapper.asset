@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cae08427b5a04504f95ed248a70c730a, type: 3}
+  m_Name: BossAAudioMapper
+  m_EditorClassIdentifier: 
+  spottedPlayer: {fileID: 8300000, guid: 0b20d34e16a469b48b20340ef0eeddf7, type: 3}
+  shootingSounds:
+  - {fileID: 8300000, guid: 0fcdb7c77e8159640bc550c45513de9d, type: 3}
+  - {fileID: 8300000, guid: 63cea8061cc1f8d48a5292f854ebbb11, type: 3}
+  movements: []
+  getKilled:
+  - {fileID: 8300000, guid: 04acab9a556a0924a93c0d1304f43933, type: 3}
+  - {fileID: 8300000, guid: 1038e51a649f50044b9b918e8ce01c6a, type: 3}

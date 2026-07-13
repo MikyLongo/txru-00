@@ -1,0 +1,342 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_Message_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 9f481af4943075c44a5d7b388ea15244, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 92056813568
+    m_Localized: New Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 180980252672
+    m_Localized: Load Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322076639232
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 375830839296
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 422404390912
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2964119060480
+    m_Localized: General Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3063188520960
+    m_Localized: Keyboard Keybindings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3210630889472
+    m_Localized: Controller Keybindings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3443804831744
+    m_Localized: Return to main menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3714924642304
+    m_Localized: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3764216102912
+    m_Localized: FullScreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3839919095808
+    m_Localized: Show FPS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3887226650624
+    m_Localized: Graphic Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4015505244160
+    m_Localized: Sound Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4136166981632
+    m_Localized: Master Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4471782604800
+    m_Localized: Sound Effects Vol.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4629723316224
+    m_Localized: Music Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4723780583424
+    m_Localized: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4754650660864
+    m_Localized: Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4870681886720
+    m_Localized: Key Configuration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5176933187584
+    m_Localized: Movements
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5259112185856
+    m_Localized: Forward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5296621846528
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5328569860096
+    m_Localized: Left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5357393117184
+    m_Localized: Right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5545197273088
+    m_Localized: Jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5665523466240
+    m_Localized: Actions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5771723243520
+    m_Localized: Item 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5960269791232
+    m_Localized: Item 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6078918262784
+    m_Localized: Item 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6155623694336
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6190893596672
+    m_Localized: Submit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9203125288960
+    m_Localized: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9263997222912
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9852411936768
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10007668293632
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10729558343680
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11611922464768
+    m_Localized: Select Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12202342055936
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108132932222976
+    m_Localized: Mission Complete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108283558068224
+    m_Localized: 'Record:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117184269615104
+    m_Localized: Next Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 835296463912960
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088503828152320
+    m_Localized: Closing the game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1089234555600896
+    m_Localized: Do you really want to close the game?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1090178244640768
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1097254983401472
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1098208835239936
+    m_Localized: Unsaved changes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1098482219974656
+    m_Localized: 'There are unsaved changes.
+
+      Do you want to save?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1102132954759168
+    m_Localized: An error has occurred!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1102712234278912
+    m_Localized: Changes saved successfully!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1108497156767744
+    m_Localized: Key already used
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1184265551446016
+    m_Localized: Error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2187676396781568
+    m_Localized: Completed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188680320221184
+    m_Localized: Checkpoint Unlocked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2189400373166080
+    m_Localized: Empty slot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3250602570383360
+    m_Localized: 'Selected slot has data.
+
+      Do you want to overwrite it?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3251675532066816
+    m_Localized: Warning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3252288642842624
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10171571738214400
+    m_Localized: 'Submit: '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10496724862992384
+    m_Localized: 'Menu:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20388916700086272
+    m_Localized: 'Current version: 0.1 (Demo)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20390031705473024
+    m_Localized: 'Created by Michael Longo
+
+      Computer engineering student at
+      the University of Catania
+
+      Student ID O46002125'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20390646187786240
+    m_Localized: Made with Unity (2022.3.36F1)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20390773023539200
+    m_Localized: This is a demo presented as a university project
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20391000929435648
+    m_Localized: '3D Models:
+
+      Unity'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20391269935316992
+    m_Localized: 'Texture:
+
+      Michael Longo'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20391322544472064
+    m_Localized: 'Music:
+
+      MIKE BERN MUSIC
+
+      Theo Prior'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20391390295064576
+    m_Localized: 'Sound effects:
+
+      Nox_Sound
+
+      B.G.M
+
+      Tim Beek
+
+      Shapeforms
+
+      WangleLine'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22128161093550080
+    m_Localized: Gamepad disconnected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22128983852417024
+    m_Localized: Reconnect the gamepad within 60 seconds!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30252936387067904
+    m_Localized: Guide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43567596322390016
+    m_Localized: VSync
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

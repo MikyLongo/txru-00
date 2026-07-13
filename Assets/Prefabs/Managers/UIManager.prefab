@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7340736412292363835
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2643826913947221058}
+  - component: {fileID: 932270701430325000}
+  m_Layer: 0
+  m_Name: UIManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2643826913947221058
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7340736412292363835}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &932270701430325000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7340736412292363835}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f46c56f1542d19442a1ad25c8ae210de, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefabMainMenu: {fileID: 6934511757194798787, guid: cf01bba585de2a04faa328c8451ab7c0, type: 3}
+  prefabSettings: {fileID: 3173346323554936408, guid: 67798d29eaacd5d4f809769761fc1fa9, type: 3}
+  prefabCredits: {fileID: 1281468715912690400, guid: bc1469d24eee93e45b6fdb3f77c7fe2f, type: 3}
+  prefabLevelHub: {fileID: 6437085192133953568, guid: f73272b908ec2e6429028d8e01769177, type: 3}
+  prefabGameplay: {fileID: 5988081742372328802, guid: 4560ede1f4f465f499f7c6388f5ba1b4, type: 3}
+  prefabPause: {fileID: 4319005511746313369, guid: 28701c39d7458984087c4856d924aae2, type: 3}
+  prefabGameOver: {fileID: 8468181723252139321, guid: 47e15b3b05c97504f9265e01ce1ecc97, type: 3}
+  prefabGameWin: {fileID: 6365540470928071765, guid: 329a750d48bc7b9459de6ddde23f5018, type: 3}
+  prefabGameHelp: {fileID: 1551026570356040793, guid: bc7bdcc4753ab6d47af5fcb981873f21, type: 3}
+  prefabDemoRankLevel: {fileID: 7093538844039437862, guid: b71664f261d15874aaa924ad376f6e40, type: 3}
+  prefabOverlay: {fileID: 3331913020085521700, guid: 2fc1736bcb4de604c903bea69a16038f, type: 3}
+  prefabHandleSaveFile: {fileID: 4105526044150310689, guid: b5e951d8b89be8e42af314a2af3e97f5, type: 3}
+  prefabMessageBox: {fileID: 4795642936724166959, guid: 3da6b5db2d8ea574696ef34e4e640227, type: 3}
+  prefabLoadingScreen: {fileID: 5353238050544216348, guid: 61fc2aa6e5a5ccd4d907fe53a10c1d91, type: 3}
+  prefabLevelInfo: {fileID: 486204311787414867, guid: 99b7317ae8b6d79478db61484793d70b, type: 3}
+  prefabEventSystem: {fileID: 3130656060455651925, guid: 85cafa29e5684be4abbf7b867d3614ce, type: 3}
+  mainMenuUI: {fileID: 0}
+  settingsUI: {fileID: 0}
+  creditsUI: {fileID: 0}
+  handleSaveFileUI: {fileID: 0}
+  levelHubUI: {fileID: 0}
+  gameplayUI: {fileID: 0}
+  pauseUI: {fileID: 0}
+  gameOverUI: {fileID: 0}
+  gameWinUI: {fileID: 0}
+  gameHelpUI: {fileID: 0}
+  demoRankLevelUI: {fileID: 0}
+  overlayUI: {fileID: 0}
+  messageBoxUI: {fileID: 0}
+  loadingScreenUI: {fileID: 0}
+  levelInfoUI: {fileID: 0}
+  eventSystem: {fileID: 0}
+  eventSystemHandler:
+    eventSystem: {fileID: 0}
+    pageFirstSelected: {fileID: 0}
+    oldSelected: {fileID: 0}
+    modalRequested: 0

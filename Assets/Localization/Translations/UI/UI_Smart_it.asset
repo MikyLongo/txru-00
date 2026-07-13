@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_Smart_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 36203f57f7af8364ea0400e17aeadba6, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 3754329922358476837
+  m_TableData:
+  - m_Id: 34871672832
+    m_Localized: Livello {level}
+    m_Metadata:
+      m_Items:
+      - rid: 3754329922358476837
+  - m_Id: 489169321984
+    m_Localized: Tentativi:\t{num:0000}
+    m_Metadata:
+      m_Items:
+      - rid: 3754329922358476837
+  - m_Id: 891323383808
+    m_Localized: Vittorie:\t{num:0000}
+    m_Metadata:
+      m_Items:
+      - rid: 3754329922358476837
+  - m_Id: 4891171061760
+    m_Localized: Tempo Migliore:\t{timeString}
+    m_Metadata:
+      m_Items:
+      - rid: 3754329922358476837
+  - m_Id: 7605074493440
+    m_Localized: Tempo Impiegato:\t{timeString}
+    m_Metadata:
+      m_Items:
+      - rid: 3754329922358476837
+  - m_Id: 90190844755968
+    m_Localized: '{position}. {timeString}'
+    m_Metadata:
+      m_Items:
+      - rid: 3754329922358476837
+  - m_Id: 468283799339008
+    m_Localized: M. {timeString}
+    m_Metadata:
+      m_Items:
+      - rid: 3754329922358476837
+  - m_Id: 1089388595609600
+    m_Localized: 'Seleziona un tasto
+
+      Premere {keyString} per annullare!'
+    m_Metadata:
+      m_Items:
+      - rid: 3754329922358476837
+  - m_Id: 1094985462284288
+    m_Localized: "Il tasto  {keyString}  \xE8 gi\xE0 utilizzato!"
+    m_Metadata:
+      m_Items:
+      - rid: 3754329922358476837
+  - m_Id: 2172777981509632
+    m_Localized: 'Livelli sbloccati: {num}'
+    m_Metadata:
+      m_Items:
+      - rid: 3754329922358476837
+  - m_Id: 2173688913035264
+    m_Localized: 'Tentativi: {num}'
+    m_Metadata:
+      m_Items:
+      - rid: 3754329922358476837
+  - m_Id: 2173852729966592
+    m_Localized: 'Vittorie: {num}'
+    m_Metadata:
+      m_Items:
+      - rid: 3754329922358476837
+  - m_Id: 2180621770391552
+    m_Localized: '{value:dateformatter}'
+    m_Metadata:
+      m_Items:
+      - rid: 3754329922358476837
+  - m_Id: 23206727554138112
+    m_Localized: '{name} collegato'
+    m_Metadata:
+      m_Items:
+      - rid: 3754329922358476837
+  - m_Id: 23207229620715520
+    m_Localized: '{name} scollegato'
+    m_Metadata:
+      m_Items:
+      - rid: 3754329922358476837
+  - m_Id: 23207232737083392
+    m_Localized: '{name} ricollegato'
+    m_Metadata:
+      m_Items:
+      - rid: 3754329922358476837
+  - m_Id: 62703264889798656
+    m_Localized: 'Completato - Grado: {rank}'
+    m_Metadata:
+      m_Items:
+      - rid: 3754329922358476837
+  references:
+    version: 2
+    RefIds:
+    - rid: 3754329922358476837
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 34871672832
+        - id: 489169321984
+        - id: 891323383808
+        - id: 4891171061760
+        - id: 7605074493440
+        - id: 90190844755968
+        - id: 468283799339008
+        - id: 1094985462284288
+        - id: 1089388595609600
+        - id: 2172777981509632
+        - id: 2173688913035264
+        - id: 2173852729966592
+        - id: 2180621770391552
+        - id: 23206727554138112
+        - id: 23207232737083392
+        - id: 23207229620715520
+        - id: 62703264889798656

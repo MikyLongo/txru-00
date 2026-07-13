@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI_Smart Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI_Smart
+  m_TableCollectionNameGuidString: 36203f57f7af8364ea0400e17aeadba6
+  m_Entries:
+  - m_Id: 34871672832
+    m_Key: LevelX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 489169321984
+    m_Key: Attempts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 891323383808
+    m_Key: Wins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4891171061760
+    m_Key: BestRecord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7605074493440
+    m_Key: TimeElapsed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90190844755968
+    m_Key: TimeRecord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 468283799339008
+    m_Key: BestTimeRecord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1089388595609600
+    m_Key: MBAskToPressKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1094985462284288
+    m_Key: MBKeybindAlreadyUsedText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2172777981509632
+    m_Key: UnlockedLevels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2173688913035264
+    m_Key: DataInfoAttempts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2173852729966592
+    m_Key: DataInfoWins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2180621770391552
+    m_Key: DataInfoLastSave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23206727554138112
+    m_Key: UI_OL_DeviceConnected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23207229620715520
+    m_Key: UI_OL_DeviceDisconnected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23207232737083392
+    m_Key: UI_OL_DeviceReconnected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62703264889798656
+    m_Key: UI_SD_Completed
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3754329922358476835
+  references:
+    version: 2
+    RefIds:
+    - rid: 3754329922358476835
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1728384575200

@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_LevelInfo_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 1310c77db50a21549a77302b6beb3782, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 1154652310830841863
+  m_TableData:
+  - m_Id: 586431037440
+    m_Localized: Level {num}
+    m_Metadata:
+      m_Items:
+      - rid: 1154652310830841863
+  - m_Id: 1634809905152
+    m_Localized: Press the Pause button \"{key}\" to close
+    m_Metadata:
+      m_Items:
+      - rid: 1154652310830841863
+  - m_Id: 13029580439552
+    m_Localized: "Finally, you are active!\r\nBut it seems that the state of your
+      memory is altered.\r\nWe don't have much time, so here's what you need to know.
+      \r\nYou are a robot, the first prototype of the TXRU model, a reconnaissance
+      robot. \r\nYou were sent to this place to recover information and resources,
+      but upon your arrival, we lost contact with you. \r\nThe cause seems to have
+      been your deactivation. \r\nInfiltrate without being detected; you wouldn't
+      stand a chance against the guards anyway. \r\nThe guards are state-of-the-art
+      combat robots, equipped with teleportation abilities and capable of generating
+      lasers that would destroy you in an instant. \r\nHowever, the worst aspect
+      is that they possess an unknown technology capable of instantly immobilizing
+      their opponent.\nBut don't worry, you are not entirely useless against them:
+      you are equipped with a radar that can map the entire area where you are, detecting
+      any entities present and even their field of vision! \r\nNow advance to the
+      next area and remember: do not get discovered! If necessary, distract the guards
+      by generating noise; you can do it by jumping!\r\n\r\nMovement:\r\nUp: {forward}\r\nDown:
+      {backward}\r\nLeft: {left}\r\nRight: {right}\r\nJump: {jump}"
+    m_Metadata:
+      m_Items:
+      - rid: 1154652310830841863
+  - m_Id: 2542267571339264
+    m_Localized: "Great, you managed to get through the first room without any problems,
+      but it's not over yet. \r\nAccording to the information gathered from your
+      radar, security here seems to be higher, which means they are protecting something.
+      \r\nHead to the next area; we'll probably find what we're looking for there.
+      \r\nWhile we're here, let me give you some additional information about your
+      model. \r\nYour model has the ability to collect and merge with particular
+      types of materials, transforming them into parts of your body and using them
+      in unique ways. But be careful: you have a limited capacity! \r\nThe radar
+      will signal any usable materials. \r\nSo use what the environment offers you
+      and move on. \r\nQuickly, we don't have much time left.\r\n\r\nActions:\nUse
+      material 1: {use1}\r\nUse material 2: {use2}\r\nUse material 3: {use3}"
+    m_Metadata:
+      m_Items:
+      - rid: 1154652310830841863
+  - m_Id: 2542293022375936
+    m_Localized: "As expected, the radar detects our data storage device, but unfortunately,
+      it does not detect the prototypes of our research. \r\nIt seems that two guards
+      do not intend to lose sight of our data, but it does not matter, those data
+      were stolen from us. \r\nYou must recover them at all costs! \r\nThose data
+      contain information about our research and are of vital importance; we cannot
+      leave them in the wrong hands. \r\nRecover the data and get out of there."
+    m_Metadata:
+      m_Items:
+      - rid: 1154652310830841863
+  - m_Id: 2542308126064640
+    m_Localized: "Well, you've almost reached the exit, but before you leave, you
+      have one last thing to do. \r\nThe radar has detected our prototypes. \r\nThe
+      prototypes to recover are an \"Energy Orb\" and an \"Energy Transmuter\". \r\nRetrieve
+      them and get out of there, but hurry. \r\nAs a precaution, an attack on the
+      facility has been activated, and it won't be long before the entire structure,
+      along with everything inside it, is pulverized."
+    m_Metadata:
+      m_Items:
+      - rid: 1154652310830841863
+  - m_Id: 2542319735898112
+    m_Localized: "Here\u2019s the exit! \r\nListen, this will be our last conversation.
+      \r\nYou have little time to get out of there; as a precaution, we have ordered
+      the destruction of the entire structure you are in, with or without you, it
+      doesn\u2019t matter. \r\nReach the exit if you want to survive, you\u2019re
+      on your own now!\r\n\r\nThe only thing I can do for you is to tell you that
+      the exit seems to be protected by an old model robot.\r\nFrom what I know,
+      it\u2019s a model with great firepower but lacking the latest technologies.
+      \r\nSo, if you can\u2019t escape without being seen, you might have a chance
+      to defeat it!\r\n\r\nGood luck!"
+    m_Metadata:
+      m_Items:
+      - rid: 1154652310830841863
+  - m_Id: 21666557273014272
+    m_Localized: Simulation report
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21666668023611392
+    m_Localized: "<style=\"RST\">Simulation No. 225</style>\r\n\r\n<style=\"RST\">Objective:</style>
+      Evaluation of the adaptive behavior of the AI \r\n<style=\"RST\">Simulation
+      outcome:</style> Successfully completed\r\n\r\n<style=\"RST\">Simulation performed:</style>
+      \r\nThe AI TXRU-00 was immersed in a virtual world with the objective of recovering
+      stolen research material. \r\nIt was provided with an extremely limiting body,
+      although the environment was populated by extremely superior entities.\r\n\r\n<style=\"RST\">Conclusion:</style>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21666965622063104
+    m_Localized: "<style=\"RST\">Note:</style> \r\nThe AI achieved the goal without
+      doubting the reality in which it is placed, despite the oddities encountered
+      during the mission. \r\nNot even in the paradoxical final room did it raise
+      issues.\r\n\r\n<style=\"RST\">Assessment:</style> "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21667340295045120
+    m_Localized: Completed the objective perfectly, demonstrating phenomenal adaptability,
+      it seemed like a ghost!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21667401762570240
+    m_Localized: Completed the objective excellently, showing great mastery of the
+      surroundings, as desired.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21667421899423744
+    m_Localized: Completed the objective demonstrating good adaptability.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21667439750381568
+    m_Localized: Completed the objective, but with room for improvement.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21667449946734592
+    m_Localized: Completed the objective with difficulty, further simulations are
+      needed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21667459778183168
+    m_Localized: Barely completed the objective, I am beginning to have doubts about
+      the evolution of this AI.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21667471358656512
+    m_Localized: An elephant would have been more successful, perhaps the project
+      should be discarded.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 1154652310830841863
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 586431037440
+        - id: 1634809905152
+        - id: 13029580439552
+        - id: 2542267571339264
+        - id: 2542293022375936
+        - id: 2542308126064640
+        - id: 2542319735898112
